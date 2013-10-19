@@ -4,35 +4,63 @@ body {
 	padding: 0;
 	background-color: #F0FFF0;
 	font-family: Quicksand, sans-serif;
+	font-size: 18px;
+	font-weight: 300;
 }
+
 header {
   	margin-left: 50px;
   	margin-right: 50px;
   	text-align: center;
 }
-.header {
-	margin: 10px;
+
+#header {
+	margin: 5px;
 	padding: 10px;
 	padding: 10px;
 	font-size: 80px;
 	text-align: center;
-	letter-spacing: 6px;
-	
+	letter-spacing: 6px;	
 }
-	
 
-section {
-  	margin: 30px;
-  	padding: 30px;
-  	padding-bottom: 200px;
-  	background-color: #FFFFFF;
-  	text-align: center;
-}
-p	{
+h2	{
 	margin: 5px;
 	padding: 5px;
 	text-align: center;
+	font-size: 30px;
+	font-weight: 300;
 }
+
+section {
+  	margin: 10px;
+  	padding: 30px;
+  	background-color: #FFFFFF;
+  	text-align: center;
+}
+
+p	{
+	margin: 2px;
+	padding: 5px;
+	text-align: center;
+}
+
+.plique	{
+	padding-top: 15px;
+	text-align: center;
+	font-size: 22px;
+}
+
+#contact {
+	margin: 2px;
+	padding: 2px;
+	text-align: center;
+	font-weight: 300;	
+}
+#contact a	{
+	text-decoration: none;
+	color: black;
+}
+
 img	{
 	padding: 20px;
 }
